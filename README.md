@@ -1,6 +1,5 @@
 Попова В.А.
 
-for_tp_lessons
 homework for programming tecnolagies
 
 Step 1
